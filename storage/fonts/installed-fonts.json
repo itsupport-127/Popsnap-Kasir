@@ -1,0 +1,8 @@
+{
+    "inter": {
+        "normal": "\/var\/www\/html\/storage\/fonts\/inter_normal_4c4a6e6f72dfd594eb3f65cd47aaa3dc",
+        "500": "\/var\/www\/html\/storage\/fonts\/inter_500_5d2c92e538213284b7d19fe623bb52ae",
+        "600": "\/var\/www\/html\/storage\/fonts\/inter_600_de877c4dce6f9939d88b64ee27538830",
+        "bold": "inter_bold_a0b4be0ccde09e6cd9080f0558695e4d"
+    }
+}
